@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># Md-Nihaz
+-->
+# Md-Nihaz
 # 💫 About Me:
  🌱 Aspiring Data Scientist <br>💬 Machine Learning Enthusiast<br>
 
