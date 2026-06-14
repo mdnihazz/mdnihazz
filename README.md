@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Md-Nihaz
+# Mohammed Nihaz
 # 💫 About Me:
  🌱 Aspiring Data Scientist <br>💬 Machine Learning Enthusiast<br>
 
