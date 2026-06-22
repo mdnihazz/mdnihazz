@@ -34,7 +34,7 @@ I am actively deepening my expertise in enterprise data architecture and scalabl
 
 ## 🤝 Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/mohammed-nihaz-vempalli](www.linkedin.com/in/mohammed-nihaz-vempalli-766428228)
+* 💼 **LinkedIn:** [linkedin.com/in/mohammed-nihaz-vempalli](https://linkedin.com/in/mohammed-nihaz-vempalli-766428228)
 * 📧 **Email:** [nihaz444@gmail.com](mailto:nihaz444@gmail.com)
 
 *“Turning raw relational data streams into clear, actionable business infrastructure.”*
