@@ -15,7 +15,7 @@ I am a technical professional and aspiring **Analytics Engineer / Data Analyst**
 
 ## 🚀 Featured Analytics Projects
 
-### 📊 [Olist E-Commerce Analytics Pipeline](https://github.com/YOUR-USERNAME/olist-ecommerce-analytics)
+### 📊 [Olist E-Commerce Analytics Pipeline](https://github.com/mdnihazz/olist-ecommerce-analytics)
 An end-to-end data pipeline processing millions of marketplace transaction logs to deliver executive operational intelligence.
 * **Data Engineering:** Engineered a Python and MySQL ingestion script that automatically cleans product classification anomalies and resolves schema granularity mismatches.
 * **Business Insights:** Isolated deep geographic supply chain divides, proving a 20+ day transit delay for landlocked interior states over the Amazon rainforest compared to urban coastal hubs.
